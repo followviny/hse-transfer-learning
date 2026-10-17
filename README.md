@@ -13,7 +13,6 @@ transfer learning на предобученной нейронной сети.
 
 | Участник          | GitHub                                                  | Telegram    |
 |-------------------|---------------------------------------------------------|-------------|
-| Роман Бохян       | [@perfectteatimer](https://github.com/perfectteatimer)  | [@warning172](https://t.me/warning172) |
 | Виктория Фокина   | [@followviny](https://github.com/followviny)            | [@v_toriia](https://t.me/v_toriia) |
 | Владимир Фатьянов | [@apfelinmv](https://github.com/apfelinmv)              | [@apfelinmv](https://t.me/apfelinmv) |
 
