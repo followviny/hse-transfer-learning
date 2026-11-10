@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "original_sha256_verified": 56877,
+  "executed_code_cells": 17,
+  "embedded_figures": 33,
+  "automatic_near_duplicate_pairs": 97,
+  "usable_images": {
+    "plantdoc": 2479,
+    "plantvillage": 54236
+  },
+  "exclusions": {
+    "duplicate_removed": 102,
+    "duplicate_label_conflict": 60
+  },
+  "pdf_pages": 2,
+  "manifest_sha256": "93958f9bb5ef6ba801175779143f305a409ad15d376cf48e3c3fdf9e7d4e9e29",
+  "checks": [
+    "all original hashes",
+    "split lists and group disjointness",
+    "all classes present",
+    "no retained duplicate pairs",
+    "automatic thresholds and independently rebuilt exclusions",
+    "calibration holdout disjointness",
+    "embedding cache matches manifest",
+    "summary and PDF counts",
+    "BK-tree vs brute force",
+    "balanced train/dev embedding sample",
+    "notebook format and outputs",
+    "two-page PDF with practical use section",
+    "GitHub file sizes"
+  ],
+  "limitations": [
+    "Group identities are incomplete",
+    "Semantic labels are not fully expert-audited",
+    "pHash candidate search can miss strongly transformed repeats",
+    "Author leaf identity is a proxy for threshold calibration; numeric similarity is not perfect duplicate ground truth"
+  ]
+}

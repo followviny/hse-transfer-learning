@@ -1,0 +1,36 @@
+{
+  "manifest_sha256": "93958f9bb5ef6ba801175779143f305a409ad15d376cf48e3c3fdf9e7d4e9e29",
+  "code_sha256": "f7bc55e010886c47787bbf4f82241e1f10a98c0897ab91864ff78c7d72a634ec",
+  "model": "torchvision ResNet18 IMAGENET1K_V1",
+  "weights_sha256": "f37072fd47e89c5e827621c5baffa7500819f7896bbacec160b1a16c560e07ec",
+  "feature_layer": "avgpool",
+  "feature_dimensions": 512,
+  "normalization": "L2",
+  "preprocessing": "resize shorter side 256, center crop 224, ImageNet normalization",
+  "device": "cpu",
+  "seed": 42,
+  "max_per_class_domain": 60,
+  "joint_max_per_class_domain": 40,
+  "tsne_perplexity": 30,
+  "tsne_iterations": 1000,
+  "pca_dimensions": 50,
+  "seconds": 79.78592054196633,
+  "metrics": {
+    "pv": {
+      "n": 2164,
+      "classes": 38,
+      "class_silhouette_cosine_512d": 0.08287221193313599
+    },
+    "pd": {
+      "n": 1566,
+      "classes": 28,
+      "class_silhouette_cosine_512d": -0.09311942011117935
+    },
+    "joint": {
+      "n": 1812,
+      "classes": 23,
+      "class_silhouette_cosine_512d": 0.0016823962796479464,
+      "domain_silhouette_cosine_512d": 0.22031673789024353
+    }
+  }
+}

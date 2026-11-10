@@ -1,0 +1,62 @@
+{
+  "seed": 42,
+  "plantvillage_target_ratios": [
+    0.7,
+    0.15,
+    0.15
+  ],
+  "method": "StratifiedGroupKFold 20; folds 0:3 test, 3:6 val, 6:20 train",
+  "phash_search_radius": 6,
+  "threshold_calibration": {
+    "hamming_max": 6,
+    "rgb_mae_max": 0.035,
+    "seed": 42,
+    "search_radius": 6,
+    "criterion": "Maximum same-author-leaf pairs with zero different-author-leaf pairs on fit; ties: lower Hamming, then lower RGB",
+    "ground_truth": "Author leaf identity is a proxy for related photos, NOT a duplicate ground truth",
+    "fit": {
+      "tp": 17,
+      "fp": 0,
+      "fn": 429,
+      "tn": 4485
+    },
+    "holdout": {
+      "tp": 10,
+      "fp": 0,
+      "fn": 162,
+      "tn": 935
+    },
+    "fit_pairs": 4931,
+    "holdout_pairs": 1107,
+    "candidate_count": 97
+  },
+  "duplicate_decision_rule": "exact bytes/pixels OR (pHash Hamming <= 6 AND RGB MAE <= 0.035)",
+  "automatic_rule_sha256": "068905b58e74f7c3eb1a149b52b57d65fbfb12621695dcf8408dd8d8a6b73024",
+  "manifest_sha256": "93958f9bb5ef6ba801175779143f305a409ad15d376cf48e3c3fdf9e7d4e9e29",
+  "common_classes": [
+    "Apple___Apple_scab",
+    "Apple___healthy",
+    "Blueberry___healthy",
+    "Cherry_(including_sour)___healthy",
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "Corn_(maize)___Common_rust_",
+    "Grape___Black_rot",
+    "Grape___healthy",
+    "Peach___healthy",
+    "Pepper,_bell___healthy",
+    "Potato___Early_blight",
+    "Potato___Late_blight",
+    "Raspberry___healthy",
+    "Soybean___healthy",
+    "Squash___Powdery_mildew",
+    "Strawberry___healthy",
+    "Tomato___Bacterial_spot",
+    "Tomato___Early_blight",
+    "Tomato___Late_blight",
+    "Tomato___Leaf_Mold",
+    "Tomato___Septoria_leaf_spot",
+    "Tomato___Tomato_mosaic_virus",
+    "Tomato___healthy"
+  ],
+  "limitation": "Leaf identity incomplete; rotated/cropped near-duplicates may remain."
+}

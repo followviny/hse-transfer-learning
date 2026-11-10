@@ -1,0 +1,163 @@
+image_id,path,label,exclusion_reason,duplicate_of,duplicate_group
+e07f788c747ab8dc4125,data/raw/plantvillage/Apple___Apple_scab/ab7d0d06-b45c-4472-a708-c2a1d65ee748___FREC_Scab 3152.JPG,Apple___Apple_scab,duplicate_removed,381a13937b1b591f372a,381a13937b1b591f372a
+48285ba5c3fc3afe115b,data/raw/plantvillage/Apple___healthy/13298d36-4425-437d-ae8e-c7d70e200084___RS_HL 6271.JPG,Apple___healthy,duplicate_removed,7dbbf0d3576c71ef1658,7dbbf0d3576c71ef1658
+79ac4e7c58f499941174,data/raw/plantvillage/Apple___healthy/3673d121-b5de-481c-b057-d4ee5b4959b1___RS_HL 6269.JPG,Apple___healthy,duplicate_removed,e31af69e2df89e6de74f,e31af69e2df89e6de74f
+4b1d26db4bc973b5024d,data/raw/plantvillage/Apple___healthy/9b75de13-d4b0-4b3f-988c-3e9926eef957___RS_HL 6273.JPG,Apple___healthy,duplicate_removed,7a5b80207b77392becc2,7a5b80207b77392becc2
+3bbe7db42710581edfd8,data/raw/plantvillage/Apple___healthy/acb21cc2-8d65-4880-a7bb-dcc1eab1564b___RS_HL 6272.JPG,Apple___healthy,duplicate_removed,f122aee4145eef418fdd,f122aee4145eef418fdd
+ac045b41b076b12070d7,data/raw/plantvillage/Apple___healthy/c21cf428-bfc3-4710-b5d2-69d1c0e94748___RS_HL 6268.JPG,Apple___healthy,duplicate_removed,7fc361e4f3af900c4061,7fc361e4f3af900c4061
+465bf72b41aca3417933,data/raw/plantvillage/Apple___healthy/dc18b924-f172-445d-8fed-61445d437aaa___RS_HL 6270.JPG,Apple___healthy,duplicate_removed,976c6dcc99f14f332bbf,976c6dcc99f14f332bbf
+31a23ada8da755894664,data/raw/plantvillage/Apple___healthy/fdbfa6f7-f887-442d-8df1-1f0cf839fc4d___RS_HL 6274.JPG,Apple___healthy,duplicate_removed,1f910da8de26930709b6,1f910da8de26930709b6
+02839b741f7e72ec4a5b,data/raw/plantvillage/Cherry_(including_sour)___Powdery_mildew/3928d15a-b841-4524-a5be-b34546c358f2___FREC_Pwd.M 0324.JPG,Cherry_(including_sour)___Powdery_mildew,duplicate_removed,ceafed7aa74a10201b1f,ceafed7aa74a10201b1f
+26dbaa3bf55ca7d84cab,data/raw/plantvillage/Cherry_(including_sour)___Powdery_mildew/8197f614-82e6-440a-bb94-74322b7c0b4c___FREC_Pwd.M 0425.JPG,Cherry_(including_sour)___Powdery_mildew,duplicate_removed,07d14047fd9388055f4d,07d14047fd9388055f4d
+d740a94516b4415b7b92,data/raw/plantvillage/Cherry_(including_sour)___Powdery_mildew/c327e44c-a0df-4811-89da-af4a761aeefb___FREC_Pwd.M 0380.JPG,Cherry_(including_sour)___Powdery_mildew,duplicate_removed,ee13aa74a76481d92581,ee13aa74a76481d92581
+d13e2aa0d0fbb37dfdf6,data/raw/plantvillage/Cherry_(including_sour)___Powdery_mildew/cd6f8dee-5c38-4e3c-946d-2d79a517d76e___FREC_Pwd.M 0284.JPG,Cherry_(including_sour)___Powdery_mildew,duplicate_removed,8f85d256c731096fb478,8f85d256c731096fb478
+a22ab8166c7f91c31869,data/raw/plantvillage/Cherry_(including_sour)___Powdery_mildew/f7d72dfe-0b0c-44a2-96b3-fd588eb10b12___FREC_Pwd.M 0500.JPG,Cherry_(including_sour)___Powdery_mildew,duplicate_removed,dce62da191b7a15831e1,dce62da191b7a15831e1
+ecf9292331b201de63bc,data/raw/plantvillage/Corn_(maize)___Northern_Leaf_Blight/7b45e9ce-9199-4f4f-9831-ef52e7c61816___RS_NLB 3547 copy 2.jpg,Corn_(maize)___Northern_Leaf_Blight,duplicate_removed,f616646f708c9483539c,f616646f708c9483539c
+ddffe73d1e2ae7492518,data/raw/plantvillage/Corn_(maize)___Northern_Leaf_Blight/b7ec2193-2a49-43b9-9962-7a13d472e668___RS_NLB 4044.JPG,Corn_(maize)___Northern_Leaf_Blight,duplicate_removed,d007dc0b83cd7e27f770,d007dc0b83cd7e27f770
+75a8c84701470a277d89,data/raw/plantvillage/Corn_(maize)___healthy/6aaf943e-fb16-4f8f-86c5-dc36724e25e5___R.S_HL 0607.JPG,Corn_(maize)___healthy,duplicate_removed,31e11246e24b23260183,31e11246e24b23260183
+053e708997fadfc2e9fd,data/raw/plantvillage/Corn_(maize)___healthy/94ca39a0-d4df-44c6-b5cc-a38a754506e5___R.S_HL 0601 copy 3.jpg,Corn_(maize)___healthy,duplicate_removed,20caf48b3ea7a215d54d,20caf48b3ea7a215d54d
+feabe709143d7f22b3ef,data/raw/plantvillage/Orange___Haunglongbing_(Citrus_greening)/36cf9442-7b86-4713-b2dd-64208f68eb8e___UF.Citrus_HLB_Lab 9905.JPG,Orange___Haunglongbing_(Citrus_greening),duplicate_removed,3c8e2a17a4b0f209ba66,3c8e2a17a4b0f209ba66
+150406bc79fe2a9928bb,data/raw/plantvillage/Orange___Haunglongbing_(Citrus_greening)/4f3ed8cd-fb88-4116-b208-5eec5115c34d___UF.Citrus_HLB_Lab 0675.JPG,Orange___Haunglongbing_(Citrus_greening),duplicate_removed,790f439d4e02c38c9141,790f439d4e02c38c9141
+fca2451fc6dc55668645,data/raw/plantvillage/Orange___Haunglongbing_(Citrus_greening)/6de27421-3bfe-49b7-a21f-1a50caf7a1dc___UF.Citrus_HLB_Lab 1217.JPG,Orange___Haunglongbing_(Citrus_greening),duplicate_removed,d7ecd340ce3f79fa4ac7,d7ecd340ce3f79fa4ac7
+40fb8494130362b3b483,data/raw/plantvillage/Orange___Haunglongbing_(Citrus_greening)/7e53a2cb-5fc7-43be-8a9d-48345b19fbbc___UF.Citrus_HLB_Lab 0591.JPG,Orange___Haunglongbing_(Citrus_greening),duplicate_removed,17ac91aa07411f93f2b5,17ac91aa07411f93f2b5
+7872aab445a95bd7a9bb,data/raw/plantvillage/Orange___Haunglongbing_(Citrus_greening)/86f14858-1e05-4803-b648-e199f8bfb880___UF.Citrus_HLB_Lab 0145.JPG,Orange___Haunglongbing_(Citrus_greening),duplicate_removed,8ca554139251093dc15b,8ca554139251093dc15b
+b3bd9a6c58df5571a46b,data/raw/plantvillage/Orange___Haunglongbing_(Citrus_greening)/89d58712-8525-4ee1-ae66-0611e89af2b9___UF.Citrus_HLB_Lab 9851.JPG,Orange___Haunglongbing_(Citrus_greening),duplicate_removed,01537cb5adf5bca2374f,01537cb5adf5bca2374f
+31d58d7a8273b6b1ab1e,data/raw/plantvillage/Orange___Haunglongbing_(Citrus_greening)/8cc20ad8-b180-40e9-b964-9836cabfdcfb___UF.Citrus_HLB_Lab 1481.JPG,Orange___Haunglongbing_(Citrus_greening),duplicate_removed,7d76ed830a77f7be3170,7d76ed830a77f7be3170
+128f5a431fa9305e2cf4,data/raw/plantvillage/Orange___Haunglongbing_(Citrus_greening)/b0c3a384-e751-438e-b9aa-1529f64d210a___UF.Citrus_HLB_Lab 9992.JPG,Orange___Haunglongbing_(Citrus_greening),duplicate_removed,456f521b4af1b82b4242,456f521b4af1b82b4242
+225792c560f63b772e36,data/raw/plantvillage/Orange___Haunglongbing_(Citrus_greening)/c26d2d12-5107-4672-99dd-dc23458f334c___UF.Citrus_HLB_Lab 1572.JPG,Orange___Haunglongbing_(Citrus_greening),duplicate_removed,0a73c4f959312bceda0a,0a73c4f959312bceda0a
+6afbfab68fd7e445edfc,data/raw/plantvillage/Orange___Haunglongbing_(Citrus_greening)/c41054d6-3723-4894-a529-2b00517acaad___UF.Citrus_HLB_Lab 1271.JPG,Orange___Haunglongbing_(Citrus_greening),duplicate_removed,05a66a8365a396f528d0,05a66a8365a396f528d0
+a6d1669b50a6f353ee36,data/raw/plantvillage/Orange___Haunglongbing_(Citrus_greening)/cbb3a4f0-f268-450c-8f2f-9c498079065c___UF.Citrus_HLB_Lab 1462.JPG,Orange___Haunglongbing_(Citrus_greening),duplicate_removed,6c3029958645afab8820,6c3029958645afab8820
+f8b300884a8fed6e49a0,data/raw/plantvillage/Orange___Haunglongbing_(Citrus_greening)/d5ece7d1-9725-461a-9437-6dd336749c09___UF.Citrus_HLB_Lab 0931.JPG,Orange___Haunglongbing_(Citrus_greening),duplicate_removed,a8bfc0d1b97a21f344d6,a8bfc0d1b97a21f344d6
+f356ddb9f36b7d94f634,data/raw/plantvillage/Orange___Haunglongbing_(Citrus_greening)/e76510bc-89ef-474f-bb2b-862abd8a47d6___UF.Citrus_HLB_Lab 9923.JPG,Orange___Haunglongbing_(Citrus_greening),duplicate_removed,853af718fbcfcad98779,853af718fbcfcad98779
+041e5bf6c75f352b6fcb,data/raw/plantvillage/Orange___Haunglongbing_(Citrus_greening)/ee1cb6cb-e891-4aea-8024-695ae62527ce___UF.Citrus_HLB_Lab 1137.JPG,Orange___Haunglongbing_(Citrus_greening),duplicate_removed,177d84aac684a2976a11,177d84aac684a2976a11
+b981d76f7cac9c0c7c35,data/raw/plantvillage/Orange___Haunglongbing_(Citrus_greening)/f070d737-e9f9-4282-84d2-e97b96077033___UF.Citrus_HLB_Lab 9945.JPG,Orange___Haunglongbing_(Citrus_greening),duplicate_removed,2b36b374c0c3f9232033,2b36b374c0c3f9232033
+1c048953cfb9d9f7b93d,data/raw/plantvillage/Orange___Haunglongbing_(Citrus_greening)/f8c0e949-2dfc-4850-9978-1576b0618eac___UF.Citrus_HLB_Lab 0094.JPG,Orange___Haunglongbing_(Citrus_greening),duplicate_removed,a04c48fc6284ee5f1514,a04c48fc6284ee5f1514
+6a4ee265ff881bbc83c5,"data/raw/plantvillage/Pepper,_bell___healthy/d382a1c3-8bd6-4a24-a231-a99b61404e48___JR_HL 8692.JPG","Pepper,_bell___healthy",duplicate_removed,1272f5201ed4054eebd6,1272f5201ed4054eebd6
+cc10a2e86ead236ebacd,data/raw/plantvillage/Soybean___healthy/70cdfcaf-b5a7-4637-b3d6-00e34ce9d3c0___RS_HL 6147.JPG,Soybean___healthy,duplicate_removed,6399ecd40a70c783ca2b,6399ecd40a70c783ca2b
+7512ead5d22035c925d1,data/raw/plantvillage/Soybean___healthy/b258123b-1596-4417-9e26-39cf9a06da41___RS_HL 3689.JPG,Soybean___healthy,duplicate_removed,ece848388b836cd6e178,ece848388b836cd6e178
+0fa6edac57cb60f7dda1,data/raw/plantvillage/Soybean___healthy/d993f922-97d5-41c2-84ff-35569c4fe3f8___RS_HL 6170.JPG,Soybean___healthy,duplicate_removed,8932146ad889603293bd,8932146ad889603293bd
+9f2fb831ff1e5772be2d,data/raw/plantvillage/Soybean___healthy/e67b3438-c1bc-438d-aea3-10cf53b487bd___RS_HL 6273.JPG,Soybean___healthy,duplicate_removed,1d57c6e17c69bad26b69,1d57c6e17c69bad26b69
+78929045dbfa71f2480e,data/raw/plantvillage/Tomato___Late_blight/2c47b891-3c97-48f1-a2cc-5aa53d3a1148___GHLB2 Leaf 9011.JPG,Tomato___Late_blight,duplicate_removed,dcbc0d6f496dee91f228,dcbc0d6f496dee91f228
+e8f9eb0547ac18cdfc34,data/raw/plantvillage/Tomato___Late_blight/54eb17df-c42a-472f-91ec-92784e034115___GHLB2 Leaf 8910.JPG,Tomato___Late_blight,duplicate_removed,7fe1909fc310bc3b51e6,7fe1909fc310bc3b51e6
+2533da73c6777824cfce,data/raw/plantvillage/Tomato___Late_blight/5de6da85-f8c4-48c4-b463-3e6bd78884cc___GHLB_PS Leaf 24 Day 16.jpg,Tomato___Late_blight,duplicate_removed,6ff93e44e9917d047e29,6ff93e44e9917d047e29
+62456ed3c35f3b33fbb2,data/raw/plantvillage/Tomato___Late_blight/670337a4-55b1-4312-8644-3545b1fcc06f___GHLB2 Leaf 8902.JPG,Tomato___Late_blight,duplicate_removed,3dfcabf005363e78c307,3dfcabf005363e78c307
+7729865ff73cb9fc509f,data/raw/plantvillage/Tomato___Late_blight/7b343a4c-5fbc-40f6-83da-ccae49ebd5fb___GHLB_PS Leaf 35 Day 13.jpg,Tomato___Late_blight,duplicate_removed,86c718f41910e67e0525,86c718f41910e67e0525
+0aec6b491ffc1cc9eb5a,data/raw/plantvillage/Tomato___Late_blight/7f533ee8-1d72-486e-b2a6-b5ef2ac7cc88___GHLB2 Leaf 8837.JPG,Tomato___Late_blight,duplicate_removed,7c29fd9b980bce45e1a9,7c29fd9b980bce45e1a9
+df3c81f61e332fcd7a42,data/raw/plantvillage/Tomato___Late_blight/bd4f09bd-ee85-4ab1-bce0-8cde3fdd7f1b___GHLB_PS Leaf 23.7 Day 13.jpg,Tomato___Late_blight,duplicate_removed,e098872af4fd1b5a0741,e098872af4fd1b5a0741
+40c188ca82e20d6ee673,data/raw/plantvillage/Tomato___Late_blight/c1775bad-7c02-41fb-bb7d-f8df91d60ac3___GHLB_PS Leaf 23.5 Day 13.jpg,Tomato___Late_blight,duplicate_removed,5f25e05da80004c74414,5f25e05da80004c74414
+b1dcd78fe19b7fe4dafd,data/raw/plantvillage/Tomato___Late_blight/cebd5337-bb61-4454-93da-bba4169f0802___GHLB2 Leaf 145.JPG,Tomato___Late_blight,duplicate_removed,b81641e1d86140b4d109,b81641e1d86140b4d109
+2ad13f45d545c849eefd,data/raw/plantvillage/Tomato___Late_blight/cf0469e3-6a8c-4d3b-a1d3-43b99619b472___GHLB2 Leaf 8699.JPG,Tomato___Late_blight,duplicate_removed,89f832bada76451a17fc,89f832bada76451a17fc
+9045e442b72b741b3b67,data/raw/plantvillage/Tomato___Late_blight/d67013bf-2462-4626-a4fa-e352e7d3008b___GHLB2ES Leaf 139.1.JPG,Tomato___Late_blight,duplicate_removed,ffa930c9a86783a78fd2,ffa930c9a86783a78fd2
+9197074dc78d34e5b5f2,data/raw/plantvillage/Tomato___Late_blight/d81682aa-746b-4e07-af2b-52ebb6f4c017___GHLB2 Leaf 102.JPG,Tomato___Late_blight,duplicate_removed,576f5b4ab3a372424c3c,576f5b4ab3a372424c3c
+f5228cbdf987f58db6f6,data/raw/plantvillage/Tomato___Late_blight/d82b634e-9a19-497b-b698-aaf100d622a1___GHLB_PS Leaf 24 Day 13.jpg,Tomato___Late_blight,duplicate_removed,1ee0ec473e49109cf0e9,1ee0ec473e49109cf0e9
+0007e7bc7cc7d79775f4,data/raw/plantvillage/Tomato___Late_blight/de272472-c653-4102-beac-6813da817d21___GHLB2 Leaf 153.2.JPG,Tomato___Late_blight,duplicate_removed,6c6278d62dff0617b1ad,6c6278d62dff0617b1ad
+1762e0155c9e771255fc,data/raw/plantvillage/Tomato___Late_blight/e20107e7-137f-400e-817f-5dc4c58e5d70___GHLB2 Leaf 8677.JPG,Tomato___Late_blight,duplicate_removed,083690cef61869f79bac,083690cef61869f79bac
+93adc8e753980abb4070,data/raw/plantvillage/Tomato___Late_blight/e5d707cd-077c-43af-bda9-6138e516ff51___GHLB2 Leaf 8999.JPG,Tomato___Late_blight,duplicate_removed,8395ea6ba68eae97889e,8395ea6ba68eae97889e
+5e17fced86eb8345d0cf,data/raw/plantvillage/Tomato___Tomato_Yellow_Leaf_Curl_Virus/48c5a9cd-b96e-468d-803d-9cf03c56a9e3___UF.GRC_YLCV_Lab 01535.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,duplicate_removed,54e43729fd4e0dca9f54,54e43729fd4e0dca9f54
+5c86eacb1f73f2c2f143,data/raw/plantvillage/Tomato___Tomato_Yellow_Leaf_Curl_Virus/9836e208-f2b2-4713-b258-6faec4e0043a___UF.GRC_YLCV_Lab 01408.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,duplicate_removed,9776a144538c1b5ff376,9776a144538c1b5ff376
+3381f329c66ab49adb7a,data/raw/plantvillage/Tomato___Tomato_Yellow_Leaf_Curl_Virus/a193e214-3a19-410d-8467-63eafff67aea___UF.GRC_YLCV_Lab 01457.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,duplicate_removed,9517fc5f8aa3c8d1ef0c,9517fc5f8aa3c8d1ef0c
+59a27874f79fa33bda5a,data/raw/plantvillage/Tomato___Tomato_Yellow_Leaf_Curl_Virus/e5777f61-ddb7-4acb-bd53-0ca82ba5ab52___UF.GRC_YLCV_Lab 01536.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,duplicate_removed,54e43729fd4e0dca9f54,54e43729fd4e0dca9f54
+beea3a4f077639dd3a38,data/raw/plantvillage/Tomato___healthy/240a9583-9e6a-446d-8850-62bc23312ce9___GH_HL Leaf 312.4.JPG,Tomato___healthy,duplicate_removed,a78b8b1774ddd9b4d784,a78b8b1774ddd9b4d784
+9f81d3f5724cf69445ed,data/raw/plantvillage/Tomato___healthy/34c81c57-e1fa-49dd-a49d-34fe8b2385fe___GH_HL Leaf 466.1.JPG,Tomato___healthy,duplicate_removed,723de16d3c492a9ccc70,723de16d3c492a9ccc70
+726e6a72567fdfcd10a3,data/raw/plantvillage/Tomato___healthy/505465db-407b-4e0a-8110-7479dad5261c___GH_HL Leaf 389.JPG,Tomato___healthy,duplicate_removed,57a936a25a35750b6fd8,57a936a25a35750b6fd8
+e6837fc6cc59892f2425,data/raw/plantvillage/Tomato___healthy/5300bf32-485d-4978-9099-3175fb666da8___GH_HL Leaf 475.JPG,Tomato___healthy,duplicate_removed,4a8c0631b21d3d914cda,4a8c0631b21d3d914cda
+351698c4359fe700883a,data/raw/plantvillage/Tomato___healthy/81453f31-6152-44e0-bfaf-fcd1336fc064___GH_HL Leaf 479.JPG,Tomato___healthy,duplicate_removed,c3ede77fabe2c782d265,c3ede77fabe2c782d265
+6f88f43ea26b278ec32c,data/raw/plantvillage/Tomato___healthy/973c9431-f521-462d-82fa-442196087ca8___GH_HL Leaf 204.1.JPG,Tomato___healthy,duplicate_removed,77b36ac9c313f552aea4,77b36ac9c313f552aea4
+65485475673b91f6ff98,data/raw/plantvillage/Tomato___healthy/a5de43e7-fc2f-4a14-a8e6-c0f2f94c84f1___GH_HL Leaf 434.JPG,Tomato___healthy,duplicate_removed,ffc0689a0a804561f7aa,ffc0689a0a804561f7aa
+2da85ac3dcfbb1c406d2,data/raw/plantvillage/Tomato___healthy/cfd491d6-4af5-4728-8f0e-0d330a07174a___GH_HL Leaf 482.2.JPG,Tomato___healthy,duplicate_removed,151df9490dbfa5b17951,151df9490dbfa5b17951
+3c3689a76d32dbbb1845,data/raw/plantvillage/Tomato___healthy/d2ce7896-6fa4-45e6-96c5-d162da0e3e1c___GH_HL Leaf 220.JPG,Tomato___healthy,duplicate_removed,27a3e2ff40fbc6bc2d44,27a3e2ff40fbc6bc2d44
+4441b1264c6594a78d59,data/raw/plantvillage/Tomato___healthy/d442075f-73bb-47a0-9545-9b36bca9300b___GH_HL Leaf 210.JPG,Tomato___healthy,duplicate_removed,b6b3df96f9727d4f20c2,b6b3df96f9727d4f20c2
+0c3091d04447d799759e,data/raw/plantvillage/Tomato___healthy/e786ac89-29fe-47e3-b49e-b9a9ee7edd9d___GH_HL Leaf 342.1.JPG,Tomato___healthy,duplicate_removed,70afa10c86d9e7944128,70afa10c86d9e7944128
+34036d619938747b1b5c,data/raw/plantdoc/test/Corn Gray leaf spot/IMG_42231.jpg,Corn Gray leaf spot,duplicate_label_conflict,,34036d619938747b1b5c
+5a2f2aad7a5330fe488e,data/raw/plantdoc/test/Corn leaf blight/2015070295153021.jpg,Corn leaf blight,duplicate_label_conflict,,5a2f2aad7a5330fe488e
+d7ca346d0f34447388d6,data/raw/plantdoc/test/Corn leaf blight/corn-gray-leaf-spot-f4.jpg,Corn leaf blight,duplicate_label_conflict,,d7ca346d0f34447388d6
+7e62053baec31aae26c1,data/raw/plantdoc/test/Potato leaf early blight/backus-056-potato-blight.jpg,Potato leaf early blight,duplicate_label_conflict,,7e62053baec31aae26c1
+b2419cf9ce93f30cfc65,data/raw/plantdoc/test/Potato leaf early blight/earlyblightpotato.jpg,Potato leaf early blight,duplicate_label_conflict,,b2419cf9ce93f30cfc65
+3c943c432fb33e761e5a,data/raw/plantdoc/test/Potato leaf late blight/1421_0.jpeg?itok=FMtmgePj.jpg,Potato leaf late blight,duplicate_label_conflict,,3c943c432fb33e761e5a
+9c5864ec8adb23a45884,data/raw/plantdoc/test/Potato leaf late blight/5816740026_d42ef24413_Phytophthora-Infestans.jpg,Potato leaf late blight,duplicate_label_conflict,,9c5864ec8adb23a45884
+bd99c7bdaeb0d8b59558,data/raw/plantdoc/test/Potato leaf late blight/irish-blight-symptoms-on-potato-leaves-atmf8b.jpg,Potato leaf late blight,duplicate_label_conflict,,bd99c7bdaeb0d8b59558
+97b6006689e59d74c3be,data/raw/plantdoc/test/Tomato leaf bacterial spot/tomato_V8.jpg,Tomato leaf bacterial spot,duplicate_label_conflict,,97b6006689e59d74c3be
+ce27f508d7878dd7ff35,data/raw/plantdoc/train/Apple Scab Leaf/applescab.jpg,Apple Scab Leaf,duplicate_removed,a7126e81fea0eafde26e,a7126e81fea0eafde26e
+953fd47ad66ed825d3c8,data/raw/plantdoc/train/Apple rust leaf/thumb-20130802_111648.jpg,Apple rust leaf,duplicate_removed,f587bb827a2418b34877,f587bb827a2418b34877
+fbbb7f69bf6559f26e73,data/raw/plantdoc/train/Bell_pepper leaf spot/Septoria-leaf-spot.jpg,Bell_pepper leaf spot,duplicate_label_conflict,,fbbb7f69bf6559f26e73
+33b53134b28d8e943546,data/raw/plantdoc/train/Bell_pepper leaf spot/image_original.jpeg?1472603885.jpg,Bell_pepper leaf spot,duplicate_removed,97cf50a2cd45ad596bdc,97cf50a2cd45ad596bdc
+0532c1edf6f9891a2853,data/raw/plantdoc/train/Bell_pepper leaf spot/image_original.jpeg?1472603886.jpg,Bell_pepper leaf spot,duplicate_removed,24fa0fbd08f2c9d1f876,24fa0fbd08f2c9d1f876
+b1a3047a3e3495810f9c,data/raw/plantdoc/train/Bell_pepper leaf spot/peppers_bacterial_spot_zoom.jpg,Bell_pepper leaf spot,duplicate_removed,0a49397ce57742ebe7b3,0a49397ce57742ebe7b3
+9ad3a25861ce9e1e8709,data/raw/plantdoc/train/Blueberry leaf/blueberry-leaves-normal-above-and-iron-deficient-below-bgahf8.jpg,Blueberry leaf,duplicate_removed,a529f66dfb2461fd2e32,a529f66dfb2461fd2e32
+8be8b2f00878abff7c6e,data/raw/plantdoc/train/Corn Gray leaf spot/2015070295153021.jpg,Corn Gray leaf spot,duplicate_label_conflict,,5a2f2aad7a5330fe488e
+62321414e8ca890ae8ee,data/raw/plantdoc/train/Corn Gray leaf spot/corn-gray-leaf-spot-f4.jpg,Corn Gray leaf spot,duplicate_label_conflict,,d7ca346d0f34447388d6
+01f54131c0d0cfd0f211,data/raw/plantdoc/train/Corn Gray leaf spot/gls99-anamosa.jpg,Corn Gray leaf spot,duplicate_label_conflict,,01f54131c0d0cfd0f211
+fa20c8ca83e64e7b7396,data/raw/plantdoc/train/Corn leaf blight/28430_web.jpg,Corn leaf blight,duplicate_removed,b27a8b717b85e7e4b957,b27a8b717b85e7e4b957
+f5880c3881e75699596a,data/raw/plantdoc/train/Corn leaf blight/IMG_42231.jpg,Corn leaf blight,duplicate_label_conflict,,34036d619938747b1b5c
+c390821084f679b10048,data/raw/plantdoc/train/Corn leaf blight/Northern-corn-leaf-blight-NM-F2.jpg,Corn leaf blight,duplicate_removed,3244f233cb71bce02d0c,3244f233cb71bce02d0c
+e75ed80b2d4d5b80c311,data/raw/plantdoc/train/Corn leaf blight/bacterial-corn-300x300.jpg,Corn leaf blight,duplicate_removed,ae525969c57d96fb56d3,ae525969c57d96fb56d3
+bca800b38f6b0b606363,data/raw/plantdoc/train/Corn leaf blight/corn-short-backlit-Xanth-lesions-halos-f2.jpg,Corn leaf blight,duplicate_removed,802f2856e240a3124d0b,802f2856e240a3124d0b
+f3c8aff722b2a4b2029b,data/raw/plantdoc/train/Corn leaf blight/gls99-anamosa-400x334.jpg,Corn leaf blight,duplicate_label_conflict,,01f54131c0d0cfd0f211
+3f10d66272e75f9442f2,data/raw/plantdoc/train/Corn rust leaf/Corn-Common-Rust.jpg,Corn rust leaf,duplicate_removed,7bcf5c10d067f6bd06fd,7bcf5c10d067f6bd06fd
+beaa9d544cd7bf1012e7,data/raw/plantdoc/train/Peach leaf/stock-photo-fresh-peach-fruits-with-green-leaves-isolated-on-white-background-59305621.jpg,Peach leaf,duplicate_removed,85c8eccbcc65ffcbb69e,85c8eccbcc65ffcbb69e
+ed4b1675712ec043050d,data/raw/plantdoc/train/Peach leaf/two-peach-leaves-isolated-on-white-picture-id519433636.jpg,Peach leaf,duplicate_removed,0ed7b63d5e3132c11c6e,0ed7b63d5e3132c11c6e
+85aefad4e1171869527d,data/raw/plantdoc/train/Potato leaf early blight/1421_0.jpeg?itok=FMtmgePj.jpg,Potato leaf early blight,duplicate_label_conflict,,3c943c432fb33e761e5a
+36be9163a1d8fadcfd5a,data/raw/plantdoc/train/Potato leaf early blight/14321627273_58d893c3e2_potato-plant.jpg,Potato leaf early blight,duplicate_label_conflict,,36be9163a1d8fadcfd5a
+a46f90f53bb08b43d60d,data/raw/plantdoc/train/Potato leaf early blight/18028_1.jpg,Potato leaf early blight,duplicate_label_conflict,,a46f90f53bb08b43d60d
+45ee44594fdc06780297,data/raw/plantdoc/train/Potato leaf early blight/36-early-blight-concentric-rings.jpg,Potato leaf early blight,duplicate_label_conflict,,45ee44594fdc06780297
+2f0b3057f7c1ccfd2920,data/raw/plantdoc/train/Potato leaf early blight/5816740026_d42ef24413_Phytophthora-Infestans.jpg,Potato leaf early blight,duplicate_label_conflict,,9c5864ec8adb23a45884
+28caf25d721b8a1247f8,data/raw/plantdoc/train/Potato leaf early blight/Blght.jpg,Potato leaf early blight,duplicate_label_conflict,,28caf25d721b8a1247f8
+4b9f2662237a758b3a1e,data/raw/plantdoc/train/Potato leaf early blight/Early-Blight-Leaves-56a348bf3df78cf7727cb35e.jpg,Potato leaf early blight,duplicate_label_conflict,,4b9f2662237a758b3a1e
+a4d245f31d6c0a075806,data/raw/plantdoc/train/Potato leaf early blight/IMG_9055.JPG.jpg,Potato leaf early blight,duplicate_label_conflict,,a4d245f31d6c0a075806
+add3b13b4a463a3b7d3c,data/raw/plantdoc/train/Potato leaf early blight/backus-045-potato-blight.jpg,Potato leaf early blight,duplicate_label_conflict,,add3b13b4a463a3b7d3c
+955d9ab5b73ae36143ea,data/raw/plantdoc/train/Potato leaf early blight/early-blight-closeup-NCSU.jpg,Potato leaf early blight,duplicate_label_conflict,,955d9ab5b73ae36143ea
+41f45840c1ba97273040,data/raw/plantdoc/train/Potato leaf early blight/irish-blight-symptoms-on-potato-leaves-atmf8b.jpg,Potato leaf early blight,duplicate_label_conflict,,bd99c7bdaeb0d8b59558
+5f69b6118fe161406d97,data/raw/plantdoc/train/Potato leaf late blight/14321627273_58d893c3e2_b.jpg,Potato leaf late blight,duplicate_label_conflict,,36be9163a1d8fadcfd5a
+b5ee6dca0c47a7ccd68b,data/raw/plantdoc/train/Potato leaf late blight/24064_1.jpg,Potato leaf late blight,duplicate_label_conflict,,a46f90f53bb08b43d60d
+1a4da313b09cc85c3c56,data/raw/plantdoc/train/Potato leaf late blight/IMG_5813-1024x768.jpg,Potato leaf late blight,duplicate_label_conflict,,1a4da313b09cc85c3c56
+ee7fcfd6ea1c3339ae70,data/raw/plantdoc/train/Potato leaf late blight/Jessore-potato-late-blight-8-2h2fdkl.jpg,Potato leaf late blight,duplicate_label_conflict,,ee7fcfd6ea1c3339ae70
+85915e6a085439022b08,data/raw/plantdoc/train/Potato leaf late blight/Symptom_potato_late_blight.jpg,Potato leaf late blight,duplicate_label_conflict,,85915e6a085439022b08
+3b7751ce798714ee9e5a,data/raw/plantdoc/train/Potato leaf late blight/backus-056-potato-blight.jpg,Potato leaf late blight,duplicate_label_conflict,,7e62053baec31aae26c1
+49698c90e022d22a38ad,data/raw/plantdoc/train/Potato leaf late blight/early_blight.jpg,Potato leaf late blight,duplicate_removed,ff9c5c3cfacf0df01449,ff9c5c3cfacf0df01449
+13ff8d41aa5ecffec54f,data/raw/plantdoc/train/Raspberry leaf/Raspberry-Suckers1.jpg,Raspberry leaf,duplicate_removed,7cdb5aa6a1c6d9d1b8d8,7cdb5aa6a1c6d9d1b8d8
+08eb44af7ac0be30f0a2,data/raw/plantdoc/train/Soyabean leaf/stock-photo-fresh-soy-leaves-isolated-on-white-224197243.jpg,Soyabean leaf,duplicate_removed,3ee9d94db9fbd94192d0,3ee9d94db9fbd94192d0
+d7ec734c0bfe30b645f2,data/raw/plantdoc/train/Squash Powdery mildew leaf/Aug+16+2010+051.jpg,Squash Powdery mildew leaf,duplicate_removed,c86fb7fd594ed4aba883,c86fb7fd594ed4aba883
+b3ef39fcfb2c8da52e8e,data/raw/plantdoc/train/Squash Powdery mildew leaf/squash-powdery-mildew.jpg,Squash Powdery mildew leaf,duplicate_removed,ecf4345623a447df0cee,ecf4345623a447df0cee
+66c9f83c506194bc2c83,data/raw/plantdoc/train/Tomato Early blight leaf/126689-004-D622CD2F.jpg,Tomato Early blight leaf,duplicate_label_conflict,,85915e6a085439022b08
+537ef0a334baa42dc182,data/raw/plantdoc/train/Tomato Early blight leaf/EBTomato.jpg,Tomato Early blight leaf,duplicate_label_conflict,,45ee44594fdc06780297
+fca92a43a75ee3a11473,data/raw/plantdoc/train/Tomato Early blight leaf/Early-blight.jpg,Tomato Early blight leaf,duplicate_removed,00199f73eb8ddac2dbf4,00199f73eb8ddac2dbf4
+2b48bb4437540e740fd6,data/raw/plantdoc/train/Tomato Early blight leaf/MPC105550.jpg.rendition.largest.ss.jpg,Tomato Early blight leaf,duplicate_label_conflict,,2b48bb4437540e740fd6
+a7b415e1d071f81a6d5b,data/raw/plantdoc/train/Tomato Early blight leaf/b54d0e40027ff5e90e8ba7e1e9abf9bd--garden-guide-garden-ideas.jpg,Tomato Early blight leaf,duplicate_label_conflict,,a7b415e1d071f81a6d5b
+ba1a5539f8f52de623cb,data/raw/plantdoc/train/Tomato Early blight leaf/early-blight-closeup-sm.jpg,Tomato Early blight leaf,duplicate_label_conflict,,955d9ab5b73ae36143ea
+5f12a4c8e1a158fe3089,data/raw/plantdoc/train/Tomato Early blight leaf/early-blight-pp-labeled_orig.jpg,Tomato Early blight leaf,duplicate_removed,213665f1c36c98819edb,213665f1c36c98819edb
+023e9904033b1360da2d,data/raw/plantdoc/train/Tomato Early blight leaf/earlyblightpotato.jpg,Tomato Early blight leaf,duplicate_label_conflict,,b2419cf9ce93f30cfc65
+014bafec76764ef1ffef,data/raw/plantdoc/train/Tomato Early blight leaf/p1020084s.jpg,Tomato Early blight leaf,duplicate_label_conflict,,014bafec76764ef1ffef
+a1c91221b8c0b84fcb0e,data/raw/plantdoc/train/Tomato Early blight leaf/tomatoblight.jpg,Tomato Early blight leaf,duplicate_label_conflict,,45ee44594fdc06780297
+6a4b6501180d16ffd41e,data/raw/plantdoc/train/Tomato Septoria leaf spot/MPC105550.jpg.rendition.largest.550.jpg,Tomato Septoria leaf spot,duplicate_label_conflict,,2b48bb4437540e740fd6
+3e3e1780f91bf694978d,data/raw/plantdoc/train/Tomato Septoria leaf spot/Sept9-300x225.jpg,Tomato Septoria leaf spot,duplicate_label_conflict,,3e3e1780f91bf694978d
+fe97465f4a8a90f6f45b,data/raw/plantdoc/train/Tomato Septoria leaf spot/Tomato%20bacterial%20spot%20closeup-050S.JPG.jpg,Tomato Septoria leaf spot,duplicate_label_conflict,,fe97465f4a8a90f6f45b
+dee6665bd7be80f37a1e,data/raw/plantdoc/train/Tomato Septoria leaf spot/b54d0e40027ff5e90e8ba7e1e9abf9bd.jpg,Tomato Septoria leaf spot,duplicate_label_conflict,,a7b415e1d071f81a6d5b
+130dd659d52a0d014826,data/raw/plantdoc/train/Tomato Septoria leaf spot/caf212ccf4696675469a0beaa9e57213.jpg,Tomato Septoria leaf spot,duplicate_label_conflict,,a4d245f31d6c0a075806
+2612ece30685a817a5b2,data/raw/plantdoc/train/Tomato Septoria leaf spot/early-blight-septoria-ls-fig-3.jpg,Tomato Septoria leaf spot,duplicate_removed,c4aed6e9eb83cb8dfff0,c4aed6e9eb83cb8dfff0
+be34a9c01e27aa138154,data/raw/plantdoc/train/Tomato Septoria leaf spot/eb56b488e349c2de423ab6afbcc4bd5b.jpg,Tomato Septoria leaf spot,duplicate_removed,4a681997879bccc29e3c,4a681997879bccc29e3c
+bc4d1e835949f2ba133b,data/raw/plantdoc/train/Tomato Septoria leaf spot/tomato-blight-treatment-blight.jpg,Tomato Septoria leaf spot,duplicate_label_conflict,,fbbb7f69bf6559f26e73
+d4cb0d2c2d26144554ce,data/raw/plantdoc/train/Tomato Septoria leaf spot/tomato_V8.jpg,Tomato Septoria leaf spot,duplicate_label_conflict,,97b6006689e59d74c3be
+c59d6faa42245f258139,data/raw/plantdoc/train/Tomato Septoria leaf spot/tomatofactsheet.png.png,Tomato Septoria leaf spot,duplicate_removed,15ae20f503556a0c4a3b,15ae20f503556a0c4a3b
+6545b7da80e879c305b2,data/raw/plantdoc/train/Tomato Septoria leaf spot/xgray-leaf-spot.jpg.pagespeed.ic.ltF8KfKtQ1.jpg,Tomato Septoria leaf spot,duplicate_removed,403b0594f71521c48b3c,403b0594f71521c48b3c
+9606133e52ba7c62e33f,data/raw/plantdoc/train/Tomato leaf bacterial spot/BCH%20small%20thumbnail%20for%20upload%20%2814%29.jpg,Tomato leaf bacterial spot,duplicate_removed,baf9bcb8942364683d1a,baf9bcb8942364683d1a
+2e189c2adbc5d9d884bc,data/raw/plantdoc/train/Tomato leaf bacterial spot/FS547-4-big.jpg,Tomato leaf bacterial spot,duplicate_label_conflict,,3e3e1780f91bf694978d
+edf3e2792aa37abcde11,data/raw/plantdoc/train/Tomato leaf bacterial spot/RyBx7MH.jpg,Tomato leaf bacterial spot,duplicate_label_conflict,,fe97465f4a8a90f6f45b
+9a3ba9f15d0c09a87aa6,data/raw/plantdoc/train/Tomato leaf bacterial spot/bacterial-canker3x2400-2ia1kgd.jpg,Tomato leaf bacterial spot,duplicate_removed,336d61b5640f27da3dce,336d61b5640f27da3dce
+4f4c422c2460f635b06f,data/raw/plantdoc/train/Tomato leaf late blight/IMG_5360.jpg,Tomato leaf late blight,duplicate_removed,69a2c90f6752db21f527,69a2c90f6752db21f527
+0e5816cb4d385fe5142c,data/raw/plantdoc/train/Tomato leaf late blight/IMG_5813.jpg,Tomato leaf late blight,duplicate_label_conflict,,1a4da313b09cc85c3c56
+023ca95ba9dc08e69d9d,data/raw/plantdoc/train/Tomato leaf late blight/LBleaf2INIA_0.jpg,Tomato leaf late blight,duplicate_label_conflict,,28caf25d721b8a1247f8
+093de73889eddabf6349,data/raw/plantdoc/train/Tomato leaf late blight/LateBlightLeaf.jpg,Tomato leaf late blight,duplicate_removed,226fad94ce944af688ee,226fad94ce944af688ee
+e086231243a812aef83c,data/raw/plantdoc/train/Tomato leaf late blight/Pest2369.jpg,Tomato leaf late blight,duplicate_label_conflict,,4b9f2662237a758b3a1e
+01809d208b646b1bb7d0,data/raw/plantdoc/train/Tomato leaf late blight/a7710b5901ba1f8e9759ef7576cd9f09.jpg,Tomato leaf late blight,duplicate_label_conflict,,add3b13b4a463a3b7d3c
+d33f3b6460d71b0dcb28,data/raw/plantdoc/train/Tomato leaf late blight/late_blight1.jpg,Tomato leaf late blight,duplicate_removed,e0e58f85f07657a9ec84,e0e58f85f07657a9ec84
+e8501985992e66871839,data/raw/plantdoc/train/Tomato leaf late blight/symptoms_of_late_blight.jpg2__0.jpg,Tomato leaf late blight,duplicate_removed,6a675751e38720df3ec2,6a675751e38720df3ec2
+8d4642c0a2a45fd7ed5b,data/raw/plantdoc/train/Tomato leaf late blight/symptoms_of_late_blight_0.jpg,Tomato leaf late blight,duplicate_label_conflict,,ee7fcfd6ea1c3339ae70
+163558fb74ddfb624503,data/raw/plantdoc/train/Tomato leaf late blight/tomato-late-blight-foliar-lesions_Scot-Nelson_CC-BY-SA-2.0.jpg,Tomato leaf late blight,duplicate_label_conflict,,9c5864ec8adb23a45884
+3bfaee29257ccaab0b09,data/raw/plantdoc/train/Tomato leaf late blight/tomato_late-blight_04_zoom.jpg,Tomato leaf late blight,duplicate_label_conflict,,014bafec76764ef1ffef
+82388f5c75e818b0f737,data/raw/plantdoc/train/Tomato leaf mosaic virus/ab40cce958c60d8b6e0ec2e4fdb8f526.jpg,Tomato leaf mosaic virus,duplicate_label_conflict,,82388f5c75e818b0f737
+20b4850402f412e74257,data/raw/plantdoc/train/Tomato leaf yellow virus/Tomato2.jpg,Tomato leaf yellow virus,duplicate_label_conflict,,82388f5c75e818b0f737
+b0286ee62692bb2ab09e,data/raw/plantdoc/train/Tomato leaf yellow virus/tomato-plant-virus-tomato-yellow-leaf-curl-virus-tomato-plant-disease-mosaic-virus.jpg,Tomato leaf yellow virus,duplicate_removed,1bc6f32ae8c17be016ca,1bc6f32ae8c17be016ca
+d93a5b8dff274d384b7a,data/raw/plantdoc/train/Tomato leaf yellow virus/tomato-yellow-leaf-curl-disease.jpg,Tomato leaf yellow virus,duplicate_label_conflict,,d93a5b8dff274d384b7a
+5ad9ff8735aeffef3419,data/raw/plantdoc/train/Tomato leaf yellow virus/tylcv-seminar-1-638.jpg,Tomato leaf yellow virus,duplicate_removed,17b243c522b511b78501,17b243c522b511b78501
+ec94ad952b13c83abe64,data/raw/plantdoc/train/Tomato mold leaf/tylc.jpg,Tomato mold leaf,duplicate_label_conflict,,d93a5b8dff274d384b7a
+3db421dfc8b48a713cf4,data/raw/plantdoc/train/grape leaf black rot/muscals2.jpg,grape leaf black rot,duplicate_removed,73f682eace7170a7bca8,73f682eace7170a7bca8

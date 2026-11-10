@@ -1,0 +1,23 @@
+{
+  "hamming_max": 6,
+  "rgb_mae_max": 0.035,
+  "seed": 42,
+  "search_radius": 6,
+  "criterion": "Maximum same-author-leaf pairs with zero different-author-leaf pairs on fit; ties: lower Hamming, then lower RGB",
+  "ground_truth": "Author leaf identity is a proxy for related photos, NOT a duplicate ground truth",
+  "fit": {
+    "tp": 17,
+    "fp": 0,
+    "fn": 429,
+    "tn": 4485
+  },
+  "holdout": {
+    "tp": 10,
+    "fp": 0,
+    "fn": 162,
+    "tn": 935
+  },
+  "fit_pairs": 4931,
+  "holdout_pairs": 1107,
+  "candidate_count": 97
+}

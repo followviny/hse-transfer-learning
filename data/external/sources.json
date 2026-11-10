@@ -1,0 +1,17 @@
+{
+  "plantdoc": {
+    "url": "https://codeload.github.com/pratikkayal/PlantDoc-Dataset/zip/5467f6012d78d1c446145d5f582da6096f852ae8",
+    "revision": "5467f6012d78d1c446145d5f582da6096f852ae8",
+    "license": "CC BY 4.0 (authors repository)",
+    "transport": "GitHub raw files, verified against Git blob SHA-1",
+    "extracted_files": 2581
+  },
+  "plantvillage": {
+    "url": "https://huggingface.co/datasets/mohanty/PlantVillage/resolve/9e97599868962bd0079b8db4b7f1efa9185fa1e7/data.zip",
+    "revision": "9e97599868962bd0079b8db4b7f1efa9185fa1e7",
+    "sha256": "fba30c6a7965e49be94b47a62f8aff6cfb1c35c27f475f22092b56db41745e84",
+    "license": "CC BY-SA 3.0 (dataset card)",
+    "archive_sha256": "fba30c6a7965e49be94b47a62f8aff6cfb1c35c27f475f22092b56db41745e84",
+    "extracted_files": 54305
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "raw_images": {
+    "plantdoc": 2572,
+    "plantvillage": 54305
+  },
+  "usable_images": {
+    "plantdoc": 2479,
+    "plantvillage": 54236
+  },
+  "raw_classes": {
+    "plantdoc": 28,
+    "plantvillage": 38
+  },
+  "common_classes": 23,
+  "exclusions": {
+    "duplicate_removed": 102,
+    "duplicate_label_conflict": 60
+  },
+  "split_counts": {
+    "excluded": {
+      "plantdoc": 93,
+      "plantvillage": 69
+    },
+    "field_dev": {
+      "plantdoc": 2252,
+      "plantvillage": 0
+    },
+    "field_test": {
+      "plantdoc": 227,
+      "plantvillage": 0
+    },
+    "test": {
+      "plantdoc": 0,
+      "plantvillage": 8137
+    },
+    "train": {
+      "plantdoc": 0,
+      "plantvillage": 37965
+    },
+    "val": {
+      "plantdoc": 0,
+      "plantvillage": 8134
+    }
+  },
+  "embedding_metrics": {
+    "pv": {
+      "n": 2164,
+      "classes": 38,
+      "class_silhouette_cosine_512d": 0.08287221193313599
+    },
+    "pd": {
+      "n": 1566,
+      "classes": 28,
+      "class_silhouette_cosine_512d": -0.09311942011117935
+    },
+    "joint": {
+      "n": 1812,
+      "classes": 23,
+      "class_silhouette_cosine_512d": 0.0016823962796479464,
+      "domain_silhouette_cosine_512d": 0.22031673789024353
+    }
+  },
+  "manifest_sha256": "93958f9bb5ef6ba801175779143f305a409ad15d376cf48e3c3fdf9e7d4e9e29",
+  "seed": 42
+}

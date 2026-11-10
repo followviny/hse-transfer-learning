@@ -1,0 +1,13 @@
+# Downloaded originals, model weights, local environment
+.venv/
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+data/raw/
+data/cache/
+tmp/
+*.log
+# Derived image-level inventory is reproducible; compact results remain versioned
+data/processed/*.parquet
+data/processed/embeddings.npy

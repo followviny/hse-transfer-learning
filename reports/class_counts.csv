@@ -1,0 +1,67 @@
+dataset,label,n
+plantdoc,Apple Scab Leaf,93
+plantdoc,Apple leaf,91
+plantdoc,Apple rust leaf,88
+plantdoc,Bell_pepper leaf,61
+plantdoc,Bell_pepper leaf spot,71
+plantdoc,Blueberry leaf,115
+plantdoc,Cherry leaf,57
+plantdoc,Corn Gray leaf spot,68
+plantdoc,Corn leaf blight,191
+plantdoc,Corn rust leaf,116
+plantdoc,Peach leaf,111
+plantdoc,Potato leaf early blight,116
+plantdoc,Potato leaf late blight,105
+plantdoc,Raspberry leaf,119
+plantdoc,Soyabean leaf,65
+plantdoc,Squash Powdery mildew leaf,130
+plantdoc,Strawberry leaf,96
+plantdoc,Tomato Early blight leaf,88
+plantdoc,Tomato Septoria leaf spot,151
+plantdoc,Tomato leaf,63
+plantdoc,Tomato leaf bacterial spot,110
+plantdoc,Tomato leaf late blight,111
+plantdoc,Tomato leaf mosaic virus,54
+plantdoc,Tomato leaf yellow virus,76
+plantdoc,Tomato mold leaf,91
+plantdoc,Tomato two spotted spider mites leaf,2
+plantdoc,grape leaf,69
+plantdoc,grape leaf black rot,64
+plantvillage,Apple___Apple_scab,630
+plantvillage,Apple___Black_rot,621
+plantvillage,Apple___Cedar_apple_rust,275
+plantvillage,Apple___healthy,1645
+plantvillage,Blueberry___healthy,1502
+plantvillage,Cherry_(including_sour)___Powdery_mildew,1052
+plantvillage,Cherry_(including_sour)___healthy,854
+plantvillage,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,513
+plantvillage,Corn_(maize)___Common_rust_,1192
+plantvillage,Corn_(maize)___Northern_Leaf_Blight,985
+plantvillage,Corn_(maize)___healthy,1162
+plantvillage,Grape___Black_rot,1180
+plantvillage,Grape___Esca_(Black_Measles),1383
+plantvillage,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),1076
+plantvillage,Grape___healthy,423
+plantvillage,Orange___Haunglongbing_(Citrus_greening),5507
+plantvillage,Peach___Bacterial_spot,2297
+plantvillage,Peach___healthy,360
+plantvillage,"Pepper,_bell___Bacterial_spot",997
+plantvillage,"Pepper,_bell___healthy",1478
+plantvillage,Potato___Early_blight,1000
+plantvillage,Potato___Late_blight,1000
+plantvillage,Potato___healthy,152
+plantvillage,Raspberry___healthy,371
+plantvillage,Soybean___healthy,5090
+plantvillage,Squash___Powdery_mildew,1835
+plantvillage,Strawberry___Leaf_scorch,1109
+plantvillage,Strawberry___healthy,456
+plantvillage,Tomato___Bacterial_spot,2127
+plantvillage,Tomato___Early_blight,1000
+plantvillage,Tomato___Late_blight,1909
+plantvillage,Tomato___Leaf_Mold,952
+plantvillage,Tomato___Septoria_leaf_spot,1771
+plantvillage,Tomato___Spider_mites Two-spotted_spider_mite,1676
+plantvillage,Tomato___Target_Spot,1404
+plantvillage,Tomato___Tomato_Yellow_Leaf_Curl_Virus,5357
+plantvillage,Tomato___Tomato_mosaic_virus,373
+plantvillage,Tomato___healthy,1591

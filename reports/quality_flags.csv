@@ -1,0 +1,89 @@
+image_id,path,dataset,label,low_resolution,extreme_aspect,extreme_brightness
+16e9b09c45f6b430894e,data/raw/plantvillage/Blueberry___healthy/e0ce0990-2187-4823-be9b-bb8ed9ffb685___RS_HL 0621.JPG,plantvillage,Blueberry___healthy,False,False,True
+1a6827d87656da26d819,data/raw/plantvillage/Tomato___Late_blight/09cdb8a4-0c20-4acd-b4c8-709fad7010fd___GHLB_PS Leaf 37 Day 16.jpg,plantvillage,Tomato___Late_blight,False,False,True
+b66ca7b7cd6b30dfce41,data/raw/plantvillage/Tomato___Late_blight/10acd4c3-b1b8-4fc7-848a-c9af30086e78___GHLB_PS Leaf 28.2 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+fdf976209be4ace39ed7,data/raw/plantvillage/Tomato___Late_blight/1159051e-1278-4b35-929c-e26b963d048f___GHLB_PS Leaf 8.1 Day 16.jpg,plantvillage,Tomato___Late_blight,False,False,True
+b93d43fe24392e66f451,data/raw/plantvillage/Tomato___Late_blight/121097dd-b0cb-436b-9b2f-7dab30c86872___GHLB_PS Leaf 37.1 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+85d471374b80c448c7de,data/raw/plantvillage/Tomato___Late_blight/16b43113-cc8c-4082-a88f-648b79036e49___GHLB_PS Leaf 23.4 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+86c718f41910e67e0525,data/raw/plantvillage/Tomato___Late_blight/17fcb016-4663-4f95-bc0b-b40392235015___GHLB_PS Leaf 35.1 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+2ea14c4f113c44a97073,data/raw/plantvillage/Tomato___Late_blight/1f2dc4ae-5264-443a-a103-67fafb37bc70___GHLB_PS Leaf 26.1 Day 16.jpg,plantvillage,Tomato___Late_blight,False,False,True
+378e1cf2d0b8587838f7,data/raw/plantvillage/Tomato___Late_blight/1f38a263-cfb5-47fe-8c0e-f8d62141f922___GHLB_PS leaf 28 Day 12 .jpg,plantvillage,Tomato___Late_blight,False,False,True
+494d47b12e7d24e0ac6b,data/raw/plantvillage/Tomato___Late_blight/233f5fca-7077-4175-a29f-57f310ea7879___GHLB_PS Leaf 51 Day 18.jpg,plantvillage,Tomato___Late_blight,False,False,True
+8acbd5374efae434e2c9,data/raw/plantvillage/Tomato___Late_blight/28130e0a-20fa-47bb-a995-74933946ff2f___GHLB_PS Leaf 24.4 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+9f32038d250b3b818edf,data/raw/plantvillage/Tomato___Late_blight/302da4a0-3b99-46ad-80f6-16ae585abf24___GHLB_PS Leaf 2.1 Day 18.jpg,plantvillage,Tomato___Late_blight,False,False,True
+674c7d879f6579a7c8fb,data/raw/plantvillage/Tomato___Late_blight/31eb8659-67c1-4cc6-b0b9-1d5ffe9eed0b___GHLB_PS Leaf 2.3 Day 18.jpg,plantvillage,Tomato___Late_blight,False,False,True
+c8b65e83c5f20877047c,data/raw/plantvillage/Tomato___Late_blight/359ad718-024d-4c9e-b871-4144ca25da76___GHLB_PS Leaf 23.1 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+2b225433cbe74feed42e,data/raw/plantvillage/Tomato___Late_blight/3a0cd50f-708e-478a-9231-39db5f2fc7c3___GHLB_PS Leaf 32.1 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+6ff93e44e9917d047e29,data/raw/plantvillage/Tomato___Late_blight/3fae9c64-18f0-4a67-9f97-554248bb1bed___GHLB_PS Leaf 24 Day 16.jpg,plantvillage,Tomato___Late_blight,False,False,True
+e098872af4fd1b5a0741,data/raw/plantvillage/Tomato___Late_blight/48c55974-9fe9-4f4b-94f7-c8cd127d1e05___GHLB_PS Leaf 23.7 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+eaf9f231d9ec92a7b7dd,data/raw/plantvillage/Tomato___Late_blight/4b115bc3-911c-4e98-b948-a6a360f06a87___GHLB_PS Leaf 25 Day 9.jpg,plantvillage,Tomato___Late_blight,False,False,True
+b4940c300fda68c2c799,data/raw/plantvillage/Tomato___Late_blight/5d8d97e7-8a2f-459f-a610-c26af46c7f5f___GHLB_PS Leaf 25.2 Day 16.jpg,plantvillage,Tomato___Late_blight,False,False,True
+c0231950b15660425a79,data/raw/plantvillage/Tomato___Late_blight/5de5dfbd-cd1f-4e5f-a263-256abb97b05b___GHLB_PS Leaf 8.1 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+2533da73c6777824cfce,data/raw/plantvillage/Tomato___Late_blight/5de6da85-f8c4-48c4-b463-3e6bd78884cc___GHLB_PS Leaf 24 Day 16.jpg,plantvillage,Tomato___Late_blight,False,False,True
+b11586917205eea4c96b,data/raw/plantvillage/Tomato___Late_blight/670616fe-c1a6-41a9-99b2-eb6270d8c299___GHLB_PS Leaf 26.2 Day 16.jpg,plantvillage,Tomato___Late_blight,False,False,True
+951059cc59f46e5e2f79,data/raw/plantvillage/Tomato___Late_blight/784f6313-1080-4bd1-a556-d4e14e6879d0___GHLB_PS Leaf 53.1 Day 18 .jpg,plantvillage,Tomato___Late_blight,False,False,True
+7729865ff73cb9fc509f,data/raw/plantvillage/Tomato___Late_blight/7b343a4c-5fbc-40f6-83da-ccae49ebd5fb___GHLB_PS Leaf 35 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+c0be16ea99dcfacc67d5,data/raw/plantvillage/Tomato___Late_blight/7d4d00c0-1e72-427d-9f05-1f64f8051cb8___GHLB_PS Leaf 1 Day 7.jpg,plantvillage,Tomato___Late_blight,False,False,True
+c27c98261732ed624aa3,data/raw/plantvillage/Tomato___Late_blight/860b6c56-686a-4f21-8ae3-d7e45acd760b___GHLB_PS Leaf 25 Day 16.jpg,plantvillage,Tomato___Late_blight,False,False,True
+cff27d5216cfba1a37fa,data/raw/plantvillage/Tomato___Late_blight/8fb5837a-daa2-49c9-8e6e-eeca83e1e764___GHLB_PS Leaf 26.1 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+5f25e05da80004c74414,data/raw/plantvillage/Tomato___Late_blight/98586693-fe1f-4ea0-8e27-4501b61cf09b___GHLB_PS Leaf 23.5 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+e271044e4cf2398db499,data/raw/plantvillage/Tomato___Late_blight/993825d6-dbbd-41b8-9993-c68c3504eff8___GHLB_PS Leaf 36 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+96aee1b131d29cae2013,data/raw/plantvillage/Tomato___Late_blight/a59f35a2-f548-4e6f-8784-c106af003c33___GHLB_PS Leaf 25.1 Day 16.jpg,plantvillage,Tomato___Late_blight,False,False,True
+95e886c34b7a3a720c0c,data/raw/plantvillage/Tomato___Late_blight/a5ef7726-d20f-4109-985f-7fc8989e4aa5___GHLB_PS Leaf 2.2 Day 8.jpg,plantvillage,Tomato___Late_blight,False,False,True
+517293561777338a10ce,data/raw/plantvillage/Tomato___Late_blight/a6007dbc-3a2f-4c1e-9ec6-28d7d3a17f28___GHLB_PS Leaf 13 Day 8.jpg,plantvillage,Tomato___Late_blight,False,False,True
+c99cf68cfb666658326b,data/raw/plantvillage/Tomato___Late_blight/a6876e29-dc0f-4716-bd3c-eedc9f45cf70___GHLB_PS Leaf 41 Day 18.jpg,plantvillage,Tomato___Late_blight,False,False,True
+46581df21acf252f2a88,data/raw/plantvillage/Tomato___Late_blight/aa2b76f2-a7e8-443c-81eb-20c00c0fd488___GHLB_PS Leaf 39.1 Day 16.jpg,plantvillage,Tomato___Late_blight,False,False,True
+c76b208fd1b29fc8683c,data/raw/plantvillage/Tomato___Late_blight/ac205c4a-58c5-430f-8b4c-f853652df749___GHLB_PS Leaf 30 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+7d0b75d89556bdd1a4a2,data/raw/plantvillage/Tomato___Late_blight/af0ded43-0d73-4d40-bd97-2597806aa707___GHLB_PS Leaf 37 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+0f8c4debd5df8664cfd3,data/raw/plantvillage/Tomato___Late_blight/b68b50e0-52b1-4ba0-98df-8080ffaf3a70___GHLB_PS Leaf 26 Day 16.jpg,plantvillage,Tomato___Late_blight,False,False,True
+2f352406d20b3f3e9c4a,data/raw/plantvillage/Tomato___Late_blight/bb1cfbc3-b8eb-4a56-9313-86cffbea4524___GHLB_PS Leaf 30.1 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+df3c81f61e332fcd7a42,data/raw/plantvillage/Tomato___Late_blight/bd4f09bd-ee85-4ab1-bce0-8cde3fdd7f1b___GHLB_PS Leaf 23.7 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+ae5d4d9f1ab447212871,data/raw/plantvillage/Tomato___Late_blight/bff1cbac-a141-4eda-ab29-b34dee705bce___GHLB_PS Leaf 47 Day 18.jpg,plantvillage,Tomato___Late_blight,False,False,True
+40c188ca82e20d6ee673,data/raw/plantvillage/Tomato___Late_blight/c1775bad-7c02-41fb-bb7d-f8df91d60ac3___GHLB_PS Leaf 23.5 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+7d36d68bb6d0f127f56e,data/raw/plantvillage/Tomato___Late_blight/c56dfea3-420f-46cf-b974-cec54b2c6992___GHLB_PS Leaf 2 Day 18.jpg,plantvillage,Tomato___Late_blight,False,False,True
+76ddf84c1991e6e3825d,data/raw/plantvillage/Tomato___Late_blight/c9258e44-7f45-4baf-8140-69d4857c56ee___GHLB_PS Leaf 45 Day 18.jpg,plantvillage,Tomato___Late_blight,False,False,True
+fb1a5127ea75822b66e6,data/raw/plantvillage/Tomato___Late_blight/c9f19d2a-8c9d-4ac1-b077-545c5d6f53a9___GHLB_PS Leaf 53 Day 18 .jpg,plantvillage,Tomato___Late_blight,False,False,True
+a31619b0483df033a5fd,data/raw/plantvillage/Tomato___Late_blight/cc182d88-d09a-4caa-948a-91db3007290a___GHLB_PS Leaf 2.1 Day 7.jpg,plantvillage,Tomato___Late_blight,False,False,True
+0664e7b503596db6c259,data/raw/plantvillage/Tomato___Late_blight/d63639eb-4a20-4321-b8b6-38de563a1ee6___GHLB_PS Leaf 26.4 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+0f4dfbad094e4b3002cf,data/raw/plantvillage/Tomato___Late_blight/de8d11a4-24da-489d-9c88-0d7cf5344cdc___GHLB_PS Leaf 2.3 Day 16.jpg,plantvillage,Tomato___Late_blight,False,False,True
+f1de14263e2176a50261,data/raw/plantvillage/Tomato___Late_blight/e55af4aa-1f1c-4300-86ca-bdcff04bef80___GHLB_PS Leaf 2 Day 9.jpg,plantvillage,Tomato___Late_blight,False,False,True
+f0332bb1df9a22cd41b8,data/raw/plantvillage/Tomato___Late_blight/e64d0e92-dbc2-44c2-b96a-3da5dc3a1c39___GHLB_PS Leaf 15.1 Day 8.jpg,plantvillage,Tomato___Late_blight,False,False,True
+53128d3c22abc2f9a4dc,data/raw/plantvillage/Tomato___Late_blight/e8c3e15e-99ae-4c47-9d27-4d94c2b96e8a___GHLB_PS Leaf 26.3 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+d48cf701b000de4c7359,data/raw/plantvillage/Tomato___Late_blight/ea42a7f6-5683-41d6-b3fc-acf07d1865e4___GHLB_PS Leaf 8 Day 9.jpg,plantvillage,Tomato___Late_blight,False,False,True
+269b7b805ae789731763,data/raw/plantvillage/Tomato___Late_blight/eb816984-283e-4a3b-846d-9bf24b1cce8d___GHLB_PS Leaf 37.2 Day 13.jpg,plantvillage,Tomato___Late_blight,False,False,True
+2550a824602f3172d6c9,data/raw/plantvillage/Tomato___Late_blight/ed974f5b-e999-46a9-9e22-da51da2766b6___GHLB_PS Leaf 8 Day 16.jpg,plantvillage,Tomato___Late_blight,False,False,True
+46179bc0f1d970c25f70,data/raw/plantdoc/test/Apple Scab Leaf/apples_apple-scab_02_thm.jpg,plantdoc,Apple Scab Leaf,True,False,False
+6551db6de0bfb61aa4a6,data/raw/plantdoc/test/Cherry leaf/d7b79dbc0bca0eb3e63fbe5dfb256ccd53d90a4eb1413_1260x1260.jpg,plantdoc,Cherry leaf,False,False,True
+4a78a2b3e28a94db6c23,data/raw/plantdoc/test/Peach leaf/7190f27ead55c0f6e3ff8b982972810a5446a9713a49d_1260x1260.jpg,plantdoc,Peach leaf,False,False,True
+22ca80b3e5d7732dda42,data/raw/plantdoc/test/Peach leaf/peach-leaf-10223898.jpg,plantdoc,Peach leaf,False,False,True
+9b63206b045e0b258e7c,data/raw/plantdoc/test/Peach leaf/peach-leaf-16690421.jpg,plantdoc,Peach leaf,False,False,True
+9448060734d3987a2744,data/raw/plantdoc/test/Soyabean leaf/fresh-soy-leaves-isolated-on-260nw-667193923.jpg,plantdoc,Soyabean leaf,False,False,True
+0d2478f5a855a9c99f37,data/raw/plantdoc/test/Tomato leaf mosaic virus/Tomato-Mosaic-1wdr2jx-300x225.jpg,plantdoc,Tomato leaf mosaic virus,True,False,False
+dfb96ad67278377bdfac,data/raw/plantdoc/test/grape leaf/depositphotos_3443387-stock-photo-the-green-grape-leaf-on.jpg,plantdoc,grape leaf,False,False,True
+8441f9ba3993281a824e,data/raw/plantdoc/train/Apple Scab Leaf/scab_on_leaf.jpg,plantdoc,Apple Scab Leaf,True,False,False
+17c2dca6c980db76db2d,data/raw/plantdoc/train/Apple leaf/leaf-apple-tree-one-green-isolated-41556482.jpg,plantdoc,Apple leaf,False,False,True
+20546068e07262f9ed18,data/raw/plantdoc/train/Cherry leaf/02b13cea19417b15cf3d6ff534aa7ea653ad783094a60_1260x1260.jpg,plantdoc,Cherry leaf,False,False,True
+ada181a568709b09b1d0,data/raw/plantdoc/train/Cherry leaf/2febe52cfac784c3191c804390d51ab756a3a7c8b9314_1260x1260.jpg,plantdoc,Cherry leaf,False,False,True
+4101e39d905aad78511b,data/raw/plantdoc/train/Cherry leaf/3b296e7197cc7e3d138892539e2e9ba453ad782db3398_1260x1260.jpg,plantdoc,Cherry leaf,False,False,True
+fc5e1e8a3b7cdcded867,data/raw/plantdoc/train/Peach leaf/peach-leaf-isolated-white-background-42295196.jpg,plantdoc,Peach leaf,False,False,True
+0bff1d0de234e4ab3724,data/raw/plantdoc/train/Peach leaf/peach-leaf-isolated-white-background-43668230.jpg,plantdoc,Peach leaf,False,False,True
+335e51c1a184982c41fb,data/raw/plantdoc/train/Peach leaf/peach-leaves-isolated-white-background-43668179.jpg,plantdoc,Peach leaf,False,False,True
+97dc0f3a8cdbd683869a,data/raw/plantdoc/train/Potato leaf late blight/cropped-symptom_potato_late_blight.jpg,plantdoc,Potato leaf late blight,False,True,False
+ffa6a34b8048e3ae3910,data/raw/plantdoc/train/Raspberry leaf/raspberry-leaves-isolated-white-background-15358743.jpg,plantdoc,Raspberry leaf,False,False,True
+a89b1a551ea8ba6af3b3,data/raw/plantdoc/train/Strawberry leaf/strawberry-leaves-14363881.jpg,plantdoc,Strawberry leaf,False,False,True
+8b0a2a63e280d074ec9b,data/raw/plantdoc/train/Strawberry leaf/strawberry-leaves-14363903.jpg,plantdoc,Strawberry leaf,False,False,True
+3e9968f62301309690e0,data/raw/plantdoc/train/Tomato leaf/17371378-tomato-leaf.jpg,plantdoc,Tomato leaf,False,False,True
+9b53926888cd4bf41fa2,data/raw/plantdoc/train/Tomato leaf/tomato-leaf-26180166.jpg,plantdoc,Tomato leaf,False,False,True
+3d66e138a796ee157e23,data/raw/plantdoc/train/Tomato leaf/tomato-vine-ripe-leaves-isolated-against-white-34863029.jpg,plantdoc,Tomato leaf,False,False,True
+f918375a7f9aecd32c4f,data/raw/plantdoc/train/Tomato leaf bacterial spot/bacterial-spot-of-tomato-7-638.jpg,plantdoc,Tomato leaf bacterial spot,False,False,True
+cf518b7bab680f3b5e76,data/raw/plantdoc/train/Tomato leaf yellow virus/tomato_leaf_roll.JPG.jpg,plantdoc,Tomato leaf yellow virus,True,False,False
+9666eabea80527d76c75,data/raw/plantdoc/train/Tomato mold leaf/tomato-leaf-mold-2.jpg,plantdoc,Tomato mold leaf,True,False,False
+7f936b1ea9120804c942,data/raw/plantdoc/train/Tomato mold leaf/tomato_Leaf-roll-physiological-7059-SLoewen_thm.jpg,plantdoc,Tomato mold leaf,True,False,False
+a2186d45eb65d6dc9295,data/raw/plantdoc/train/grape leaf/10178grape_leaf.jpg,plantdoc,grape leaf,False,False,True
+a246df3c96b6144571c7,data/raw/plantdoc/train/grape leaf/4635766-green-grapevine-leaves.jpg,plantdoc,grape leaf,False,False,True
+d0c87fc9b549dd73419e,data/raw/plantdoc/train/grape leaf/depositphotos_6812535-stock-photo-grape-leaves.jpg,plantdoc,grape leaf,False,False,True
+e3cc88fe5855cb1ef656,data/raw/plantdoc/train/grape leaf/grape-leaves-21658567.jpg,plantdoc,grape leaf,False,False,True
+1c2d17e217f2088cffa1,data/raw/plantdoc/train/grape leaf/grape-leaves-3368435.jpg,plantdoc,grape leaf,False,False,True
+0ad2628ddf3c6e6b80e3,data/raw/plantdoc/train/grape leaf/grape-leaves-picture-id108483523?k=6&m=108483523&s=612x612&w=0&h=hBDI-YPeBffgjjZzbHsAaCfARsflsveT1NbcncLft5Y=.jpg,plantdoc,grape leaf,False,False,True
+4cb4f358c6a0ca84a823,data/raw/plantdoc/train/grape leaf/grape-vines-3876069.jpg,plantdoc,grape leaf,False,False,True
+b1ecd3296bec4f2edf6a,data/raw/plantdoc/train/grape leaf/young-fresh-grape-leaf-picture-id183867740?k=6&m=183867740&s=612x612&w=0&h=Q8_s3Yw7p_VKQjda-mZPl9rN4lDmpVjjbMUk95HtVFk=.jpg,plantdoc,grape leaf,False,False,True
